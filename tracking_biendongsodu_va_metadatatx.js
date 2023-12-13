@@ -1,6 +1,7 @@
 //Lưu ý:
 // code chỉ nhằm mục đích: tracking biến động số dư của 1 địa chỉ cụ thể chứ không phải toàn bộ stake key
 // nội dung message có thể tự thay đổi theo ý muốn
+// nếu không muốn bot gửi thông báo về email và telegram group thì hãy xóa các phần code liên quan
 // data đổ về sheet sẽ thống kê số dư hiện tại, sự thay đổi số dư, mã giao dịch, địa chỉ người gửi, địa chỉ stake của người gửi, tin nhắn kèm trong giao dịch (nếu có)
 
 var spreadsheetId = "id googlesheet của bạn";
