@@ -4,5 +4,7 @@ Tài liệu này viết code để cho mọi người sử dụng và tương t�
 
 Sẽ có clip hướng dẫn cụ thể sau
 
-Code chỉ thuần kiểm tra on-chain
+Code chỉ thuần kiểm tra on-chain không lấy bất kỳ thông tin bí mật nào
+
+
 
