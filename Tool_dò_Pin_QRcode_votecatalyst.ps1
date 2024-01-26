@@ -32,17 +32,14 @@ $foundValidPIN = $false
                     break
                 }
             }
-
             if ($foundValidPIN) {
                 break
             }
         }
-
         if ($foundValidPIN) {
             break
         }
     }
-
     if ($foundValidPIN) {
         break
     }
