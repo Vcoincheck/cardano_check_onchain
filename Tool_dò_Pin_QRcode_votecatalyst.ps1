@@ -16,7 +16,7 @@ $foundValidPIN = $false
                 $pin = "$one$two$three$four"
 
                 # Chạy lệnh thực thi cho catalyst-toolbox
-                $input = "*Đường dẫn file ảnh QR code*"  #tới thư mục chứa file QR code, di chuyển chuột tới file, right click và chọn "Copy as path" 
+                $input = "**Đường dẫn file ảnh QR code"  #tới thư mục chứa file QR code, di chuyển chuột tới file, right click và chọn "Copy as path" 
                 $output = .\catalyst-toolbox qr-code decode --input $input --pin $pin img 2>&1
 
                 # Kiểm tra điều kiện nếu kết quả có chứa "Error" hay kết quả đúng
