@@ -3,7 +3,7 @@
 # Mở Window powershell. Cách mở bấm vào cửa sổ Windown, gõ power shell
 # Trong màn hình Power shell hãy di chuyển tới thư mục chứa file catalyst-toolbox.exe - Ví dụ cd "tên ổ cứng":\folder\..
 # Hoặc đơn giản hãy tới thư mục chứa file catalyst-toolbox.exe click chuột phải và chọn "Run in terminal"
-# Copy lại toàn bộ dòng lệnh dưới đây và nhấn Enter
+# Copy lại toàn bộ dòng lệnh dưới đây (sửa lại 1 số giá trị như $input như trong PC của bạn) và nhấn Enter
 
 $foundValidPIN = $false
 
