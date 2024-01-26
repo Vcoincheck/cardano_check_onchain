@@ -4,9 +4,9 @@
 # Trong màn hình Power shell hãy di chuyển tới thư mục chứa file catalyst-toolbox.exe - Ví dụ cd "tên ổ cứng":\folder\..
 # Hoặc đơn giản hãy tới thư mục chứa file catalyst-toolbox.exe click chuột phải và chọn "Run in terminal"
 # Copy lại toàn bộ dòng lệnh dưới đây (sửa lại 1 số giá trị như $input như trong PC của bạn) và nhấn Enter
+# Có thể copy ra 1 file word để sửa lại cho đúng
 
 $foundValidPIN = $false
-
 0..9 | ForEach-Object {
     $one = $_
     0..9 | ForEach-Object {
