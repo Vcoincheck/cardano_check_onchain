@@ -11,7 +11,6 @@ $headers = @{
     "accept" = "application/json"
     "content-type" = "application/json"
 }
-
 $body = @{
     "_stake_addresses" = @("Thay stakekey của ví cần check của bạn tại đây - định dạng stake1...")
 } | ConvertTo-Json
