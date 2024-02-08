@@ -2,7 +2,7 @@ Chú ý:
 - Đây chỉ là code thực thi thông thường chạy ở môi trường MS-DOS command line của Computer
 - Cách lấy địa chỉ stake của ví thì xin tự search lại trong group telegram
 - Đây là truy xuất dữ liệu real-time từ blockchain nên nếu bạn chỉ có address thì không thể thực hiện được với code này.
-- Bạn có thể download file này về và chạy trực tiếp mỗi lần mà không cần copy&paste (cần có quyền Admin khi chạy powerShell)  
+- Bạn có thể download file này về và chạy trực tiếp mỗi lần mà không cần copy&paste (cần có quyền Admin khi chạy powerShell)  ....
 
 #Bước 1: chạy Window power shell (bất kỳ Computer chạy hđh Microsoft Window đều có sẵn)
 #Bước 2: Copy and paste đoạn code dưới
