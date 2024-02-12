@@ -1,4 +1,4 @@
-//Đang edit
+//Đang edit/
 
 function address_info(){
 var url1 = 'https://api.koios.rest/api/v1/address_info';
