@@ -1,5 +1,5 @@
 # Source-code IOHK https://github.com/input-output-hk/catalyst-core/tree/main/src/catalyst-toolbox
-# Link git download tool từ IOHK https://github.com/input-output-hk/catalyst-toolbox/releases/tag/v0.5.0 chọn bản windown
+# Link git download tool từ IOHK https://github.com/input-output-hk/catalyst-toolbox/releases/tag/v0.5.0 chọn bản window
 # Mở Window powershell. Cách mở bấm vào cửa sổ Windown, gõ power shell
 # Trong màn hình Power shell hãy di chuyển tới thư mục chứa file catalyst-toolbox.exe - Ví dụ cd "tên ổ cứng":\folder\..
 # Hoặc đơn giản hãy tới thư mục chứa file catalyst-toolbox.exe click chuột phải và chọn "Run in terminal"
