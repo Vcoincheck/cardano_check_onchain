@@ -1,5 +1,5 @@
 //Lưu ý:
-// Code chỉ nhằm mục đích: tracking biến động số dư của 1 địa chỉ cụ thể chứ không phải toàn bộ ví stake
+// Code chỉ nhằm mục đích: tracking biến động số dư của 1 địa chỉ cụ thể chứ không phải toàn bộ ví 
 // Nếu muốn tracking biến động của cả ví thì dùng code khác (sẽ update sau)
 // Nội dung message có thể tự thay đổi theo ý muốn
 // Nếu không muốn bot gửi thông báo về email và telegram group thì hãy xóa các phần code liên quan
